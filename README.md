@@ -9,4 +9,4 @@
     ./gen lit -ntrans 100 -tlen 10 -nitems 1 -fname B -ascii
     ./gen lit -ntrans 1000 -tlen 10 -nitems 1 -fname C -ascii
 ### Reference
-    [https://github.com/chonyy/fpgrowth_py](https://github.com/chonyy/fpgrowth_py)
+[https://github.com/chonyy/fpgrowth_py](https://github.com/chonyy/fpgrowth_py)
