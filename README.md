@@ -1,6 +1,6 @@
 # Data Mining
 ## Lab1
-### Download the synthetic data generator (IBMGenerator) from IBM Almaden Quest Project.
+### Download the synthetic data generator (IBMGenerator) from IBM Almaden Quest Project
     git clone https://github.com/zakimjz/IBMGenerator.git
 ### Generate the executable file 'gen'
     make
